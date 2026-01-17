@@ -1,0 +1,11 @@
+pH,Temperature,Concentration,Label
+2.1,25,0.10,Acidic
+3.5,27,0.15,Acidic
+4.8,30,0.20,Acidic
+5.9,28,0.25,Acidic
+6.5,26,0.30,Acidic
+7.5,25,0.10,Basic
+8.2,27,0.15,Basic
+9.0,30,0.20,Basic
+10.4,32,0.25,Basic
+11.8,35,0.30,Basic
